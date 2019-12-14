@@ -2,7 +2,7 @@
 
 #### Ingrediënten
 
-Voor 800ml (10 ava-potjes)
+Voor 800ml (10 ava-potjes)(8 à 10 weck-potjes)
 
 | Ingrediënt        | Hoeveelheid |
 | ----------------- | ----------- |
@@ -26,8 +26,11 @@ Voor 800ml (10 ava-potjes)
 4. Voeg de chocolade bij de ruban en zet opzij
 5. Klop de room op (niet te hard) en spatel onder het chocolademengsel
 6. Vouw de opgeklopte eiwitten onder het chocolademengsel
+7. Laat opstijven in de frigo
 
-#### !!!
+#
+### !!
+!
 
 - Niet roeren als de mousse uit een grote kom wordt geserveerd
 - Verliest "mousse" na lange autorit
