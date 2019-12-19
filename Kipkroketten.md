@@ -2,7 +2,7 @@
 
 #### Ingrediënten
 
-Voor ong. 25 kroketten
+Voor ong. 24 kroketten
 
 | Ingrediënt                                             | Hoeveelheid |
 | ------------------------------------------------------ | ----------- |
