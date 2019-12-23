@@ -12,7 +12,7 @@
 #### Benodigdheden
 
 - Pan
-- klopper
+- Klopper
 
 #### Bereidingswijze
 
