@@ -15,7 +15,7 @@
 
 - Pot
 - Spatel
-- klopper
+- Klopper
 
 #### Bereidingswijze
 
