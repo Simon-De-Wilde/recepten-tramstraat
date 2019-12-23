@@ -19,7 +19,7 @@
 
 #### Bereidingswijze
 
-1. Smelt de boter in de pot en doe er de rijst bij. Laat even "bakken"
+1. Smelt de boter in de pot en doe er de rijst bij. Laat even zweten in de boter
 2. Voeg de melk toe (en eventueel de safraan)
 3. Breng aan de kook en laat ong. 35 min zachtjes koken
 4. Meng het ei met de suiker
