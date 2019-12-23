@@ -1,4 +1,4 @@
-# Chili con CarneTEST
+# Chili con Carne
 
 #### Ingrediënten
 
