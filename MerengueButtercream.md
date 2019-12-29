@@ -1,4 +1,4 @@
-# Merengue Buttercream
+# Merengue
 
 #### Ingrediënten
 
