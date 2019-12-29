@@ -1,4 +1,4 @@
-# Merengue
+# Meringue
 
 #### Ingrediënten
 
