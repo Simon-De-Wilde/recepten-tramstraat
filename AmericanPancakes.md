@@ -11,6 +11,7 @@ Voor 3 à 4 personen
 | Suiker                         | 60 gr       |
 | Zout                           | Snuifje     |
 | Vanillesuiker (indien gewenst) | 1 Zakje     |
+| Melk                           | 120 ml|
 
 #### Benodigdheden
 
@@ -22,7 +23,7 @@ Voor 3 à 4 personen
 #### Bereidingswijze
 
 1. Klop de eiwitten op met het snuifje zout en zet opzij
-2. Meng de eierdooiers, de bloem en de melk in de Kenwood tot een dikke, zachte massa
+2. Meng de eierdooiers, de suiker, de melk en de bloem in de Kenwood tot een dikke, zachte massa
 3. Vouw de eiwitten voorzichtig onder het mengsel
 4. Bak de pannenkoeken op een zacht vuur
 5. Serveer met honing, siroop, stroop ... 
