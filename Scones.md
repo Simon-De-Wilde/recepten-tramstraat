@@ -28,7 +28,7 @@
 2. Meng alles tot een slordig deeg
 3. Rol uit tot 2 à 3 cm dik en snij er schijven uit
 4. Leg de schijven op een bakplaat en bestrijk met ei
-5. Bak voor 10 min. tot ze goudbruin zijn
+5. Bak voor 20 min. tot ze goudbruin zijn
 6. Serveer met slagroom, confituur, thee ...
 
 #### !!
