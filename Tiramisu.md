@@ -29,7 +29,7 @@ Voor uitschuifvorm 30x20 cm, 3 lagen (12 grote porties of 16 kleine porties)
 
 1. Klop de meringue volgens [deze beschrijving](https://github.com/Simon-De-Wilde/Recepten/blob/master/Meringue.md). Zet opzij
 2. Klop een ruban van de eierdooiers en suiker (ruban)
-3. Voeg de mascarpone en een schuitje amaretto toe
+3. Voeg de mascarpone en een scheutje amaretto toe
 4. Vouw de meringue onder de ruban met mascarpone
 5. Doe een schuit amaretto in de koffie
 6. Dop de boudoirs kort in de koffie en bedek de bodem van de uitschuifvorm
