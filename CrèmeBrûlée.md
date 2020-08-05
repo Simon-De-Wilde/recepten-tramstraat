@@ -24,7 +24,7 @@
 1. Verwarm de oven op 120°C
 2. Kook de room met de in tweeën gesneden vanillestokjes en 100gr griessuiker
 3. Klop een ruban van de overige griessuiker en de eierdooiers
-4. Giet al roerend de kokende room over de ruban. 
+4. Giet al roerend de kokende room over de ruban. (**Klop niet te hard, er mag niet te veel schuim op komen. Dit zorgt voor een minder mooi resultaat**)
 5. Kras het merg uit de vanillestokken en voeg deze toe aan het mengsel
 6. Giet de vloeistof in schaaltjes
 7. Plaats gedurende 35 min. in een bain-marie in de oven
