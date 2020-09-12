@@ -9,7 +9,7 @@ Recept voor 8 middelgrote broodjes
 | Tarwebloem | 500 gr      |
 | Lauw water | 300 ml      |
 | Oliefolie  | 1 el        |
-| Droge gist | 1 el        |
+| Droge gist | 1 el (10 gr)|
 | Zout       | 1tl         |
 
 #### Benodigdheden
