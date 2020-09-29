@@ -27,7 +27,7 @@ Voor uitschuifvorm 30x20 cm, 3 lagen (12 grote porties of 16 kleine porties)
 
 #### Bereidingswijze
 
-1. Klop de meringue volgens [deze beschrijving](https://github.com/Simon-De-Wilde/Recepten/blob/master/Meringue.md). Zet opzij
+1. Klop de eiwitten en de suiker samen op. Zet opzij
 2. Klop een ruban van de eierdooiers en suiker (ruban)
 3. Voeg de mascarpone en een scheutje amaretto toe
 4. Vouw de meringue onder de ruban met mascarpone
