@@ -30,7 +30,7 @@ Recept voor 2 broodjes. Zie video op [Youtube](https://www.youtube.com/watch?v=A
 1. Doe alle ingrediënten in de kneder, behalve de boter (**het zout mag niet in aanraking komen met de verse gist!**)
 2. Kneed het deeg voor 6 minuten
 3. Voeg de boter toe en kneed verder voor 6 minuten tot de boter volledig opgenomen is (**je zal de kneder enkele malen moeten stilleggen om de randen bij te schrapen**)
-4. Doe de chocoladedruppels bij het deeg en kneed ze eronder met de hand (de kneder is te warm en de chocolade zou kunnen smelten, wat lijdt tot een bruin deeg)
+4. Doe de chocoladedruppels bij het deeg en kneed ze eronder met de hand (de kneder is te warm en de chocolade zou kunnen smelten, wat leidt tot een bruin deeg)
 5. Laat het deeg onder een handdoek rusten voor 30 minuten
 6. Geef kracht aan het deeg door alle lucht eruit te kloppen
 7. Vouw het deeg 4 keer
