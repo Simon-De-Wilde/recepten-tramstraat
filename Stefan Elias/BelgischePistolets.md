@@ -34,7 +34,7 @@ Recept voor 10 pistolets. Zie video op [Youtube](https://www.youtube.com/watch?v
 8. Bol de deegporties op tot strakke bolletjes (**gebruik hier geen bloem bij**) en leg ze op een bebloemde handdoek
 9. Laat de deegbolletjes onder een handdoek rijzen voor 15 minuten
 10. Keep de pistolets diep in met de rand van een houten plankje (zie video)
-11. Draai de ingekeepte pistolet om en laat ze onder een handdoek rijzen voor 1 uur
+11. Draai de ingekeepte pistolet om op een zeer bebloemde bakplaat (anders plakken ze aan de handdoek) en laat ze onder een handdoek rijzen voor 1 uur
 12. Voorverwarm de oven op 230°C (**boven- en onderwarmte**) met de bakplaat er in
 13. Haal de hete bakplaat uit de oven
 14. Draai de pistolets nogmaals om en leg ze op de bakplaat
