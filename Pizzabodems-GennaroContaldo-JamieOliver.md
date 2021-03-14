@@ -47,4 +47,4 @@ Makkelijk in te vriezen en 'on the spot' uit te halen
 10. Bak de pizza gedurende 5 minuten op een voorverwarmde oven van 275°C (of zo hoog mogelijk) en laat afkoelen op een koelrek
 11. Herhaal stappen 8 en 9 terwijl de vorige pizza aan het bakken is, zolang er deeg is. Op die manier ben je klaar in een klein uurtje
 12. Laat de bodems volledig afkoelen en Bewaar ze in de diepvriezer met laatjes bakpapier tussen (bruikbaar bij het bakken, dus niet verloren :wink:)
-13. Om klaar te maken: Beleg de diepgevroren bodem naar wens en bak ze ±8 minuten op een voorverwarmde oven van 220°C
+13. Om klaar te maken: Beleg de diepgevroren bodem naar wens en bak ze ±10 minuten op een voorverwarmde oven van 200°C
