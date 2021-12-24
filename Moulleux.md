@@ -35,6 +35,6 @@ Recept voor 6 kleine ramequin'tjes. Het deeg best 1 dag op voorhand maken en in 
 
 6. Boter de ramequins en bloem ze met cacaopoeder
 7. Vul de potjes met deeg  tot ongeveer 4/5 vol
-8. Bak de moulleux in een voorverwarmde oven voor 7 à 8 minuten (**niet meer**)
-9. Haal de moulleux uit de oven en laat ze 7 à 8 minuten rusten (ja, rusten 😉)
+8. Bak de moulleux in een voorverwarmde oven voor 9 minuten (**niet meer**)
+9. Haal de moulleux uit de oven en laat ze 8 minuten rusten (ja, rusten 😉)
 10. Enjoy!
