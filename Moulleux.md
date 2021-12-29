@@ -12,7 +12,7 @@ Recept voor 6 kleine ramequin'tjes. Het deeg best 1 dag op voorhand maken en in 
 | fondantchocolade             | 125 gr      |
 | Witte suiker                 | 60 gr       |
 | Patisseriebloem              | 20 gr       |
-| Cacaopoeder (voor de potjes) |             |
+| Cacaopoeder (voor de potjes) | eventueel   |
 
 #### Benodigdheden
 
@@ -33,8 +33,8 @@ Recept voor 6 kleine ramequin'tjes. Het deeg best 1 dag op voorhand maken en in 
 
 \* one day lateur \*
 
-6. Boter de ramequins en bloem ze met cacaopoeder
+6. Boter de ramequins en bloem ze met cacaopoeder (niet echt nodig als ze in de potjes worden geserveerd)
 7. Vul de potjes met deeg  tot ongeveer 4/5 vol
-8. Bak de moulleux in een voorverwarmde oven voor 9 minuten (**niet meer**)
+8. Bak de moulleux in een voorverwarmde oven voor 9 à 10 minuten (**niet meer**)
 9. Haal de moulleux uit de oven en laat ze 8 minuten rusten (ja, rusten 😉)
 10. Enjoy!
