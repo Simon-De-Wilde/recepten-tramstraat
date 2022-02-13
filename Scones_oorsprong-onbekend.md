@@ -1,5 +1,7 @@
 # Scones
 
+Dit was het eerste scones recept in deze repo, maar blijkbaar was het niet het *échte* 🙄. Zie [hier](./Scones-papa.md), voor het recept met karnemelk.
+
 #### Ingrediënten
 
 | Ingrediënt           | Hoeveelheid |
