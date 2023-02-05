@@ -5,8 +5,8 @@
 | Ingrediënt               | Hoeveelheid |
 | ------------------------ | ----------- |
 | Bloemige aardappelen     | 5 kg        |
-| Room                     | 1 L         |
-| Volle melk               | 2 L         |
+| Room                     | 2 L         |
+| Volle melk               | 1 L         |
 | Peper, zout, nootmuskaat |             |
 | Gemalen kaas             |             |
 
