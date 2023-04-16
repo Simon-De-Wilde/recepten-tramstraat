@@ -1,6 +1,6 @@
 # Chocoladebrood
 
-Recept voor 2 broodjes. Zie video op [Youtube](https://www.youtube.com/watch?v=Acv8tiYXmSM)
+Recept voor 2 broodjes. Zie video op Youtube ([https://www.youtube.com/watch?v=Acv8tiYXmSM](https://www.youtube.com/watch?v=Acv8tiYXmSM))
 
 #### Ingrediënten
 
@@ -24,6 +24,8 @@ Recept voor 2 broodjes. Zie video op [Youtube](https://www.youtube.com/watch?v=A
 - Oven
 - Bakpapier
 - Scherp mes
+
+<div style= 'page-break-after: always'></div>
 
 #### Bereidingswijze
 
