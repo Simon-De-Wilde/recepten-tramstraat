@@ -19,16 +19,17 @@ Recept voor 3 grote speculazen (430 gr per stuk) en 330 gr overschot
 #### Benodigdheden
 
 - Pot
+- Mixer (optioneel)
 - Speculaasplank (Kan ook zonder)
 - Deegrol
 - Oven op 160°C
 
 #### Bereidingswijze
 
-1. Meng de ingrediënten in deze volgorde tot een deeg. Eerst nat, dan droog erbij
-	1. Nat: Zachte boter, bruine suiker, kandijsiroop, eieren
-	2. Droog: Bloemsoorten, kaneel, speculaaskruiden
-2. Laat het deeg 1 dag rusten in de koelkast, bedekt met plastiekfolie
-3. Verwarm de oven op 160°C hete lucht
-4. Bebloem de speculaasplank, vorm het deeg erin en klop het gevormde deeg uit op een bakplaat (of rol het deeg uit tot 1 à 1,5 cm dik)
-5. Bak de speculaas voor 30 minuten en laat afkoelen.
+1. Mix de natte ingrediënten (Zachte boter, bruine suiker, kandijsiroop, eieren)
+2. Meng er de droge ingrediënten door (Bloemsoorten, kaneel, speculaaskruiden) (niet te lang mengen)
+3. Laat het deeg 1 dag rusten in de koelkast, bedekt met plastiekfolie
+4. Verwarm de oven op 160°C hete lucht
+5. Bebloem de speculaasplank, vorm het deeg erin en klop het gevormde deeg uit op een bakplaat (of rol het deeg uit tot 1 à 1,5 cm dik)
+   - Zorg voor voldoen ruimte rond de speculaas
+6. Bak de speculaas voor 30 minuten en laat afkoelen. (De speculaas zal nog zacht zijn)
