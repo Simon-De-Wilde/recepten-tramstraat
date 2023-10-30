@@ -7,7 +7,7 @@ Recept voor 10 boules. Zie video op [Youtube](https://www.youtube.com/watch?v=xE
 | Ingrediënt             | Hoeveelheid    |
 | ---------------------- | -------------- |
 | Tarwebloem             | 300 gr         |
-| Volle melk (kamertemp) | 110 gr         |
+| Volle melk (frigo temp)| 110 gr         |
 | Ei                     | 1              |
 | Verse gist             | 25 gr          |
 | Kristalsuiker          | 15 gr          |
