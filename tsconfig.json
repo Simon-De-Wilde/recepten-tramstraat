@@ -22,9 +22,9 @@
 
 		/* Import resolving */
 		"baseUrl": "src", // The root folder for resolutions
-		// "paths": { // Custom paths
-		// 	"components/*": ["components/*"], 
-		// },
+		"paths": { // Custom paths
+			"components/*": ["components/*"], 
+		},
 	},
 	"include": ["src"],
 	"references": [{ "path": "./tsconfig.node.json" }],
