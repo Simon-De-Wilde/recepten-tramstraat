@@ -4,7 +4,7 @@ import CookieIcon from '../../assets/images/cookie-icon.svg';
 const Header = () => {
 	return (
 		<Box sx={{ p: 2 }}>
-			<Stack direction={'column'} alignItems={'center'}>
+			<Stack alignItems={'center'}>
 				<Stack direction={'row'} justifyContent={'center'} gap={1}>
 					<Typography level="h1">Recepten Tramstraat</Typography>
 					<Box sx={{ height: '3rem' }}>
