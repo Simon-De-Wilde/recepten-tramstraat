@@ -1,5 +1,5 @@
 import { Box, Stack, Typography } from '@mui/joy';
-import CookieIcon from '../../assets/images/cookie-icon.svg';
+import CookieIcon from 'assets/images/cookie-icon.svg';
 
 const Header = () => {
 	return (

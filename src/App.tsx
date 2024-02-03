@@ -1,5 +1,5 @@
 import { Stack } from '@mui/joy';
-import Header from './components/header/Header';
+import Header from 'components/header/Header';
 
 const App: React.FC = () => {
 	return (
