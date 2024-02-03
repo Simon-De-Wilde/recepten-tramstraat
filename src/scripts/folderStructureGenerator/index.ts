@@ -38,7 +38,7 @@ const outputPath = p.join(
 	'src/generated/folderStructure/folderStructure.json',
 );
 
-fs.writeFile(outputPath, JSON.stringify(folder, ), (error) => {
+fs.writeFile(outputPath, JSON.stringify(folder), (error) => {
 	if (error) {
 		console.error('Failure while writing to file');
 		console.error(error);

@@ -22,8 +22,9 @@
 
 		/* Import resolving */
 		"baseUrl": "src", // The root folder for resolutions
-		"paths": { // Custom paths
-			"components/*": ["components/*"], 
+		"paths": {
+			// Custom paths (needed for intellisense)
+			"components/*": ["components/*"],
 		},
 	},
 	"include": ["src"],
