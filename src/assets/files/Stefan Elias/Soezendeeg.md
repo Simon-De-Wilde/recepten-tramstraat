@@ -1,6 +1,6 @@
 # Soezendeeg
 
-Recept voor een kleine portie shoe-pastry voor soezen en eclairs. 1 hoeveelheid maakt 150gr deeg, goed voor 5 grote soezen. 
+Recept voor een kleine portie shoe-pastry voor soezen en eclairs. 1 hoeveelheid maakt 150gr deeg, goed voor 5 grote soezen.
 
 #### Ingrediënten
 
@@ -14,7 +14,7 @@ Recept voor een kleine portie shoe-pastry voor soezen en eclairs. 1 hoeveelheid 
 
 #### Benodigdheden
 
-- Kleine pot 
+- Kleine pot
 - Spatel
 - Spuitzak met tip
 - Voorverwarmde oven op 225°C

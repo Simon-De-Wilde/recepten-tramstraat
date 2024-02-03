@@ -25,7 +25,7 @@ Voor 6 à 8 personen
 
 #### Benodigdheden
 
-- Snijplank 
+- Snijplank
 - Mes
 - Spatel
 - Pot

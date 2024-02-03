@@ -24,8 +24,8 @@ Voor 16 à 18 wafels
 #### Bereidingswijze
 
 1. Meng in deze volgorde in de Kenwood:
-	1. Eieren
-	2. Suiker en vanillesuiker
-	3. Gesmolten boerenboter
-	4. Melk, water en bloem afwisselend (om klonters te voorkomen)
+   1. Eieren
+   2. Suiker en vanillesuiker
+   3. Gesmolten boerenboter
+   4. Melk, water en bloem afwisselend (om klonters te voorkomen)
 2. Bak de wafels op stand 6 à 7 voor ong. 3 min.

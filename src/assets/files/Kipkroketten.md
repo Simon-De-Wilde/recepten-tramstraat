@@ -42,4 +42,3 @@ Voor ong. 24 kroketten
 11. Snij kroketten uit de opgesteven blok en paneer met bloem, ei en paneermeel
 12. Vries de kroketten in
 13. Frituur ze 3 min. op 150°C en 2 à 3 min. op 180°C
-

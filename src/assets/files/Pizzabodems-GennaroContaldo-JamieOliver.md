@@ -42,7 +42,7 @@ Makkelijk in te vriezen en 'on the spot' uit te halen
 5. Bol de porties op en leg ze op een bebloemde bakplaat
 6. Bedek de bollen met een vochtige handdoek en laat ze gedurende 2 uur rijzen op een warme, vochtige plek (oven op 30°C bvb.)
 7. Maak de saus door de ajuin en de wortel aan te stoven met de look en voeg er na enkele minuten de tomatenpassata aan toe. Kruid met peper, zout oregano, ...
-8. Rol een bol deeg uit tot een schijf van ±30cm en leg ze op de pizzaschijf. 
+8. Rol een bol deeg uit tot een schijf van ±30cm en leg ze op de pizzaschijf.
 9. Doe een pollepel saus op de pizza (goed tot de randen)
 10. Bak de pizza gedurende 5 minuten op een voorverwarmde oven van 275°C (of zo hoog mogelijk) en laat afkoelen op een koelrek
 11. Herhaal stappen 8 en 9 terwijl de vorige pizza aan het bakken is, zolang er deeg is. Op die manier ben je klaar in een klein uurtje

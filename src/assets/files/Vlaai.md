@@ -28,11 +28,10 @@ Voor een ronde vlaaivorm van 22 cm
 
 1. Verwarm de oven op 180°C
 2. Doe alle ingrediënten uitgezonderd de melk en de eieren in een grote kom (breek de peperkoek en het brood in stukken)
-3. Breng de melk aan de kook en giet over de droge ingrediënten.  Zorg dat alle goed vochtig is
+3. Breng de melk aan de kook en giet over de droge ingrediënten. Zorg dat alle goed vochtig is
 4. Laat een paar minuten rusten
 5. Mix alles tot een gladde massa met de staafmixer
 6. Voeg de eieren toe en mix verder
 7. Vrijf de bakvorm in met boter en bloem en stort de massa erin
-8. Bak 30 à 40 minuten 
+8. Bak 30 à 40 minuten
 9. Laat volledig afkoelen
-

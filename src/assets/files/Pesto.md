@@ -19,6 +19,6 @@ Kan ingevroren worden (in ijsblokjes-vorm bijvoorbeeld).
 
 #### Bereidingswijze
 
-1. Alles, behalve de knoflook,  goed mixen in de mixer
+1. Alles, behalve de knoflook, goed mixen in de mixer
 2. Voeg de knoflook toe en mix kort om bitterheid te voorkomen
 3. Doe in aparte potjes en bewaar in de frigo of in de diepvries

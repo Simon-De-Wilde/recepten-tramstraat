@@ -41,4 +41,4 @@ Recept voor 10 pistolets. Zie video op [Youtube](https://www.youtube.com/watch?v
 15. Vernevel de pistolets met water en plaats meteen in de oven
 16. Voeg meer stoom toe door de zijkanten van de oven te vernevelen
 17. Bak de pistolets voor 20 minuten
-18.  Laat de oven 1 minuut op een kier staan met behulp van een spatel tussen de deur, zodat de resterende stoom kan ontsnappen 
+18. Laat de oven 1 minuut op een kier staan met behulp van een spatel tussen de deur, zodat de resterende stoom kan ontsnappen

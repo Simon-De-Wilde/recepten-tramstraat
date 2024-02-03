@@ -18,13 +18,13 @@
 
 ### Bereiding
 
-1. Meng alle kruiden, sauzen en olie tot een papje, houdt de 100ml water met zetmeel apart. 
-2. Snij de broccoli in hapklare bloempjes. 
-3. Zet een wok op het vuur en maak heet. 
+1. Meng alle kruiden, sauzen en olie tot een papje, houdt de 100ml water met zetmeel apart.
+2. Snij de broccoli in hapklare bloempjes.
+3. Zet een wok op het vuur en maak heet.
 4. Doe het papje in de wok.
 5. Doe de broccoli in de wok.
 6. Roer goed doorheen.
 7. Doe een half glas zuiver water in de wok en zet het deksel erop om te stomen.
 8. Herhaal dit tot de broccoli knapperig, maar gaar is. Zorg dat je niet te veel water in de wok tegelijk doet en dat het water op het einde bijna verdampt is.
-9. Doe het water met het zetmeel in de wok en roer goed door zodat de 'saus' aan de broccoli blijft kleven. 
+9. Doe het water met het zetmeel in de wok en roer goed door zodat de 'saus' aan de broccoli blijft kleven.
 10. DONE!

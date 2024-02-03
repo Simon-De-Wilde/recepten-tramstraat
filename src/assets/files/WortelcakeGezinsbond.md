@@ -25,7 +25,7 @@ Voor kleine Ikea-vorm (25cm x 35cm | 42 porties) → hoeveelheden x 3
 #### Benodigdheden
 
 - Oven op 150 °C
-- Kenwood 
+- Kenwood
 - Bakpapier
 - Bakvorm
 - Rasp voor zeste

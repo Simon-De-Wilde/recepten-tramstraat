@@ -22,4 +22,3 @@
 2. Klop een ruban van alle andere ingrediënten
 3. Giet de melk al mixend (!) bij de ruban
 4. Breng aan de kook en laat 1 minuut uitkoken (vergeet niet om te blijven roeren)
-

@@ -39,6 +39,6 @@ Voor 1 taart van ong. 25 cm diameter
 10. Laat volledig afkoelen
 11. Snij horizontaal doormidden
 12. Smeer er de confituur tussen
-13. Kook de room en giet over de chocolade (250 gr) 
+13. Kook de room en giet over de chocolade (250 gr)
 14. Meng er de boter (50 gr) door giet over de taart
-15. Laat volledig afkoelen 
+15. Laat volledig afkoelen

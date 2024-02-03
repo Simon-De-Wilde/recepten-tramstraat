@@ -39,7 +39,7 @@ Link: [Tasty](https://tasty.co/recipe/the-best-chewy-chocolate-chip-cookies)
    - Wijze 1 (grote, dunne koeken)
      - Leg de bolletjes op een bakplaat (houd genoeg ruimte!)
    - Wijze 2 (dikkere, kleinere koekjes. Ze krijgen lichtjes de vorm van een cupje)
-     - Doe de bolletjes in een cupcakevorm. 
+     - Doe de bolletjes in een cupcakevorm.
        - NOTE: Laat de koekjes na het bakken volledige afkoelen in de vorm voor ze te proberen verwijderen. Anders breken ze.
 8. Bak de cookies gedurende 9 á 10 minuten op een voorverwarmde oven van 180°C
    **of**

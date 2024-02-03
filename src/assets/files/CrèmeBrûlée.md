@@ -29,4 +29,4 @@
 6. Giet de vloeistof in schaaltjes
 7. Plaats gedurende 35 min. in een bain-marie in de oven
 8. Laat de crème volledig koud worden in de koelkast
-9. Schep net voor het serveren suiker op de crème en karamelliseer met een bunsenbrander of onder de grill 
+9. Schep net voor het serveren suiker op de crème en karamelliseer met een bunsenbrander of onder de grill

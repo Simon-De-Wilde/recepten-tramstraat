@@ -4,7 +4,7 @@ Recept voor 15 sandwiches
 
 Zonder suiker, perfect om hartig te beleggen
 
-Perfect in te vriezen, laat ze terug ontdooien op kamertemperatuur voor 30 minuten 
+Perfect in te vriezen, laat ze terug ontdooien op kamertemperatuur voor 30 minuten
 
 [Video](https://www.youtube.com/watch?v=WM6dDW0m9IM&ab_channel=StefanElias-bakkenmetStefan-)
 
@@ -37,4 +37,3 @@ Perfect in te vriezen, laat ze terug ontdooien op kamertemperatuur voor 30 minut
 7. Vorm de bolletje in sandwiches. Duw hiervoor de bolletjes plat, draai het schijf om (zodat het 'slot' naar boven ligt), vouw de bovenkant 3x om tot een worstje, rol het worstje zodat er puntjes aan de uiteinden komen. Bekijk de video op [2:21](https://youtu.be/WM6dDW0m9IM?t=141) voor duidelijkere uitleg :wink:
 8. Leg de sandwiches op bakplaten met bakpapier en laat ze gedurende 1 uur rijzen onder een handdoek (soms een beetje langer)
 9. Bestrijk de sandwiches voorzicht (!) met ei en bak ze 7 minuten op een voorverwarmde oven van 230 °C boven- en onderwarmte
-

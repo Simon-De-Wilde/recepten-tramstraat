@@ -42,4 +42,4 @@ Voor uitschuifvorm 30x20 cm, 3 lagen (12 grote porties of 16 kleine porties)
 
 - Weeg de ingrediënten correct af, ook de eieren.
 - Voor een wit, vierkant bord van mama (kleiner dan origineel) :
-	- 3 Dozen boudoirs, 100 gr eierdooiers, 100 gr suiker, 625 gr mascarpone, 150 gr eiwitten, 100 gr suiker
+  - 3 Dozen boudoirs, 100 gr eierdooiers, 100 gr suiker, 625 gr mascarpone, 150 gr eiwitten, 100 gr suiker

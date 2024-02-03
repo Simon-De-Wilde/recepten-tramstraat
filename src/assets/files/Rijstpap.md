@@ -25,4 +25,3 @@
 4. Meng het ei met de suiker
 5. Haal de melk van het vuur en klop er het eimengsel door (!! goed doorkloppen !!)
 6. Laat opstijven in de frigo
-

@@ -42,4 +42,3 @@ Voor ongeveer 30 kroketten
 11. Vries de kroketten volledig in voor ze te frituren
 12. Frituur de kroketten 3 min. op 150°c en 2 min. op 180°C
 13. Serveer met citroen en in frituurvet gebakken peterselie
-

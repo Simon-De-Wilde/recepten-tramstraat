@@ -4,13 +4,13 @@ Recept voor 8 middelgrote broodjes
 
 #### Ingrediënten
 
-| Ingrediënt | Hoeveelheid |
-| ---------- | ----------- |
-| Tarwebloem | 500 gr      |
-| Lauw water | 300 ml      |
-| Oliefolie  | 1 el        |
-| Droge gist | 1 el (10 gr)|
-| Zout       | 1tl         |
+| Ingrediënt | Hoeveelheid  |
+| ---------- | ------------ |
+| Tarwebloem | 500 gr       |
+| Lauw water | 300 ml       |
+| Oliefolie  | 1 el         |
+| Droge gist | 1 el (10 gr) |
+| Zout       | 1tl          |
 
 #### Benodigdheden
 
@@ -28,7 +28,7 @@ Recept voor 8 middelgrote broodjes
 4. Verdeel het deeg in 8 gelijke delen
 5. Bol de porties strak op (**geen bloem gebruiken**)
 6. Rol de bolletjes uit tot schijven van ongeveer 15 cm diameter en ongeveer 0,5 cm hoogte
-7. leg de schijven op een bakplaat met bakpapier (**genoeg ruimte laten dat  ze zeker niet tegen elkaar zullen plakken**)
+7. leg de schijven op een bakplaat met bakpapier (**genoeg ruimte laten dat ze zeker niet tegen elkaar zullen plakken**)
 8. Laat de broodjes rijzen gedurende 30 à 40 min
 9. Bak de broodjes voor 10 min in een voorverwarmde oven van 230°C
 10. Vul de broodjes met pitavulling of gebruik als broodvervanger
