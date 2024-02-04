@@ -10,7 +10,7 @@ const folderStructure = _folderStructure as FolderNode; // Explicit cast. necces
 const FolderView: React.FC = () => {
 	return (
 		<Box sx={{ p: 1, bgcolor: (theme) => theme.palette.background.level2 }}>
-			<TreeView sx={{ p: 1 }}>
+			<TreeView sx={{ p: 1 }} defaultExpanded={[folderStructure.path]}>
 				<FolderViewItem node={folderStructure} />
 			</TreeView>
 		</Box>
