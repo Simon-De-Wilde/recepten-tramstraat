@@ -5,7 +5,7 @@ import _folderStructure from 'generated/folderStructure/folderStructure.json';
 import { FolderNode } from './models';
 import FolderViewItem from './FolderViewItem';
 
-const folderStructure = _folderStructure as FolderNode; // Explicit cast. neccesary for the optional field
+const folderStructure = _folderStructure as FolderNode; // Explicit cast neccesary for the optional field
 
 const FolderView: React.FC = () => {
 	return (

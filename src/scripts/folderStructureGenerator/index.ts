@@ -8,8 +8,6 @@ const traverseNode = (node: FolderNode) => {
 
 	if (!isDirectory) return node;
 
-	node.children = [];
-
 	fs.readdirSync(node.path).forEach((path) => {
 		path = node.path + '/' + path;
 
@@ -17,7 +15,7 @@ const traverseNode = (node: FolderNode) => {
 
 		const newNode = new FolderNode(name, path);
 
-		node.children!.push(newNode); // '!' needed because TS thinks it might be undefined, but it explicitly initialized above.
+		node.children.push(newNode);
 
 		return traverseNode(newNode);
 	});
