@@ -1,7 +1,7 @@
 import { TreeItem, useTreeItem } from '@mui/x-tree-view';
 import { FolderNode } from './models';
 import { useEffect } from 'react';
-import { FolderOpen, Source, TextSnippetOutlined } from '@mui/icons-material';
+import { FolderOpen, Folder, InsertDriveFileOutlined } from '@mui/icons-material';
 
 type FolderViewItemProps = {
 	node: FolderNode;
@@ -31,9 +31,9 @@ const FolderViewItem: React.FC<FolderViewItemProps> = ({ node }) => {
 			key={node.path}
 			nodeId={node.path}
 			label={node.name}
-			expandIcon={<Source />}
+			expandIcon={<Folder />}
 			collapseIcon={<FolderOpen />}
-			icon={!isFolder && <TextSnippetOutlined />}
+			icon={!isFolder && <InsertDriveFileOutlined />}
 		>
 			{sortedChildren?.map((child) => (
 				<FolderViewItem key={child.path} node={child} />
