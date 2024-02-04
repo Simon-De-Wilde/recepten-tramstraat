@@ -28,11 +28,7 @@ Voor 800ml (10 ava-potjes)(8 à 10 weck-potjes)
 6. Vouw de opgeklopte eiwitten onder het chocolademengsel
 7. Laat opstijven in de frigo
 
-#
-
-### !!
-
-!
+### !!!
 
 - Niet roeren als de mousse uit een grote kom wordt geserveerd
 - Verliest "mousse" na lange autorit
