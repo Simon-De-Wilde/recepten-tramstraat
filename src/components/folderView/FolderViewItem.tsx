@@ -1,7 +1,11 @@
 import { TreeItem, useTreeItem } from '@mui/x-tree-view';
 import { FolderNode } from './models';
 import { useEffect } from 'react';
-import { FolderOpen, Folder, InsertDriveFileOutlined } from '@mui/icons-material';
+import {
+	FolderOpen,
+	Folder,
+	InsertDriveFileOutlined,
+} from '@mui/icons-material';
 
 type FolderViewItemProps = {
 	node: FolderNode;
