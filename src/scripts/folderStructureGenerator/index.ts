@@ -11,7 +11,8 @@ const traverseNode = (node: FolderNode) => {
 	fs.readdirSync(node.path).forEach((path) => {
 		path = node.path + '/' + path;
 
-		const name = p.basename(path, '.md');
+		const filename = p.basename(path, '.md');
+		const name = camelCaseToWords(filename);
 
 		const newNode = new FolderNode(name, path);
 
@@ -22,6 +23,11 @@ const traverseNode = (node: FolderNode) => {
 
 	return node;
 };
+
+function camelCaseToWords(s: string) {
+  const result = s.replace(/([A-Z])/g, ' $1').trim();
+  return result.charAt(0).toUpperCase() + result.slice(1);
+}
 
 const folder = new FolderNode(
 	'Recepten',
