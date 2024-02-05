@@ -9,3 +9,5 @@ export class FolderNode {
 		this.children = [];
 	}
 }
+
+export const isFolder = (node: FolderNode) => !!node.children.length;
