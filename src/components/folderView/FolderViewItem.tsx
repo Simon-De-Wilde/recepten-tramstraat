@@ -1,6 +1,5 @@
-import { TreeItem, useTreeItem } from '@mui/x-tree-view';
+import { TreeItem } from '@mui/x-tree-view';
 import { FolderNode, isFolder } from './models';
-import { useEffect } from 'react';
 import {
 	FolderOpen,
 	Folder,
@@ -13,14 +12,6 @@ type FolderViewItemProps = {
 };
 
 const FolderViewItem: React.FC<FolderViewItemProps> = ({ node }) => {
-	const { selected } = useTreeItem(node.path);
-
-	useEffect(() => {
-		if (selected) {
-			console.log(node);
-		}
-	}, [selected, node]);
-
 	const sortedChildren = node.children?.sort((a, b) => {
 		return isFolder(a) && !isFolder(b)
 			? -1
