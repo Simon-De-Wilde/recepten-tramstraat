@@ -25,6 +25,8 @@
 		"paths": {
 			// Custom paths (needed for intellisense)
 			"components/*": ["components/*"],
+			"hooks/*": ["hooks/*"],
+			"generated/*": ["generated/*"],
 		},
 	},
 	"include": ["src"],

@@ -25,8 +25,8 @@ const traverseNode = (node: FolderNode) => {
 };
 
 function camelCaseToWords(s: string) {
-  const result = s.replace(/([A-Z])/g, ' $1').trim();
-  return result.charAt(0).toUpperCase() + result.slice(1);
+	const result = s.replace(/([A-Z])/g, ' $1').trim();
+	return result.charAt(0).toUpperCase() + result.slice(1);
 }
 
 const folder = new FolderNode(
