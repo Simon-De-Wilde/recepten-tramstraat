@@ -5,7 +5,7 @@ import {
 	Folder,
 	InsertDriveFileOutlined,
 } from '@mui/icons-material';
-import { NavLink } from 'react-router-dom';
+import { StyledNavLink } from './FolderViewItem.style';
 
 type FolderViewItemProps = {
 	node: FolderNode;
@@ -27,7 +27,11 @@ const FolderViewItem: React.FC<FolderViewItemProps> = ({ node }) => {
 			key={node.path}
 			nodeId={node.path}
 			label={
-				nodeIsFolder ? node.name : <NavLink to={node.name}>{node.name}</NavLink>
+				nodeIsFolder ? (
+					node.name
+				) : (
+					<StyledNavLink to={node.name}>{node.name}</StyledNavLink>
+				)
 			}
 			expandIcon={<Folder />}
 			collapseIcon={<FolderOpen />}
