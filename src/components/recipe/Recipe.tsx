@@ -5,6 +5,7 @@ import { useParams } from 'react-router';
 import { searchFolderNode } from './models';
 import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import './github-markdown.style.css';
 
 const Recipe: React.FC = () => {
 	const folderStructure = useFolderStructure();
@@ -27,7 +28,7 @@ const Recipe: React.FC = () => {
 	if (node === null) return <div>404: NOT FOUND</div>; // TODO: 404 page
 
 	return (
-		<Box>
+		<Box className={'markdown-body'}>
 			<Markdown remarkPlugins={[remarkGfm]}>{recipeText}</Markdown>
 		</Box>
 	);
