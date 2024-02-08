@@ -28,7 +28,17 @@ const Recipe: React.FC = () => {
 	if (node === null) return <div>404: NOT FOUND</div>; // TODO: 404 page
 
 	return (
-		<Box className={'markdown-body'}>
+		<Box
+			className={'markdown-body'}
+			sx={{
+				bgcolor: (theme) => theme.palette.background.level1,
+				flexGrow: 1,
+				borderRadius: 4,
+				paddingX: 2,
+				paddingTop: 2,
+				paddingBottom: 4,
+			}}
+		>
 			<Markdown remarkPlugins={[remarkGfm]}>{recipeText}</Markdown>
 		</Box>
 	);

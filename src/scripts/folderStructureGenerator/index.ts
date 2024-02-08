@@ -30,10 +30,7 @@ function camelCaseToWords(s: string) {
 	return result.charAt(0).toUpperCase() + result.slice(1);
 }
 
-const folder = new FolderNode(
-	'Recepten',
-	'recipes',
-);
+const folder = new FolderNode('Recepten', 'recipes');
 
 traverseNode(folder);
 
