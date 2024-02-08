@@ -4,6 +4,7 @@ import { useFolderStructure } from 'hooks/useFolderStructure';
 import { useParams } from 'react-router';
 import { searchFolderNode } from './models';
 import Markdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 
 const Recipe: React.FC = () => {
 	const folderStructure = useFolderStructure();
@@ -27,7 +28,7 @@ const Recipe: React.FC = () => {
 
 	return (
 		<Box>
-			<Markdown>{recipeText}</Markdown>
+			<Markdown remarkPlugins={[remarkGfm]}>{recipeText}</Markdown>
 		</Box>
 	);
 };
