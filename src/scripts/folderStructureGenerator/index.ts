@@ -3,18 +3,19 @@ import * as p from 'path';
 import { FolderNode } from 'components/folderView/models';
 
 const traverseNode = (node: FolderNode) => {
-	const nodeInfo = fs.statSync(node.path);
-	const isDirectory = nodeInfo.isDirectory();
+	const nodeLocation = p.join(import.meta.env.PWD, 'public', node.path);
 
-	if (!isDirectory) return node;
+	const nodeInfo = fs.statSync(nodeLocation);
 
-	fs.readdirSync(node.path).forEach((path) => {
-		path = node.path + '/' + path;
+	if (!nodeInfo.isDirectory()) return node;
 
-		const filename = p.basename(path, '.md');
-		const name = camelCaseToWords(filename);
+	fs.readdirSync(nodeLocation).forEach((child) => {
+		const childPath = p.join(node.path, child);
 
-		const newNode = new FolderNode(name, path);
+		let childName = p.basename(childPath, '.md');
+		childName = camelCaseToWords(childName);
+
+		const newNode = new FolderNode(childName, childPath);
 
 		node.children.push(newNode);
 
@@ -31,9 +32,8 @@ function camelCaseToWords(s: string) {
 
 const folder = new FolderNode(
 	'Recepten',
-	p.join(import.meta.env.PWD, 'src/assets/recipes'),
+	'recipes',
 );
-folder.children = [];
 
 traverseNode(folder);
 
