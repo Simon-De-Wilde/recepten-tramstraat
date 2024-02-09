@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom/client';
 import App from 'App';
 import 'index.css';
 import '@fontsource/inter';
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createHashRouter } from 'react-router-dom';
 import Recipe from 'components/recipe/Recipe';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
 	{
 		path: '/',
 		element: <App />,
