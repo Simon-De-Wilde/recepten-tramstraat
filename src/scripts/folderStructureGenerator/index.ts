@@ -43,9 +43,9 @@ fs.writeFile(outputPath, JSON.stringify(folder), (error) => {
 	if (error) {
 		console.error('Failure while writing to file');
 		console.error(error);
+	} else{
+		console.log(
+			`Successfully wrote the generated folderstructure to '${outputPath}' `,
+		);
 	}
-
-	console.log(
-		`Successfully wrote the generated folderstructure to '${outputPath}' `,
-	);
 });
