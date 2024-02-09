@@ -5,7 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"dev": "bun foldergen && vite",
-		"build": "bun foldergen && tsc && vite build",
+		"build": "tsc && vite build",
 		"lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
 		"preview": "vite preview",
 		"foldergen": "bun ./src/scripts/folderStructureGenerator/index.ts",
