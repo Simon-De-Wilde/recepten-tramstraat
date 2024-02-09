@@ -34,18 +34,24 @@ const folder = new FolderNode('Recepten', 'recipes');
 
 traverseNode(folder);
 
-const outputPath = p.join(
+const outputFolder = p.join(
 	import.meta.env.PWD,
-	'src/generated/folderStructure/folderStructure.json',
+	'src/generated/folderStructure',
 );
+const outputPath = p.join(outputFolder, 'folderStructure.json');
+
+// Ensure folder exists
+if (!fs.existsSync(outputFolder)) {
+	fs.mkdirSync(outputFolder, { recursive: true });
+}
 
 fs.writeFile(outputPath, JSON.stringify(folder), (error) => {
 	if (error) {
 		console.error('Failure while writing to file');
 		console.error(error);
+	} else {
+		console.log(
+			`Successfully wrote the generated folderstructure to '${outputPath}' `,
+		);
 	}
-
-	console.log(
-		`Successfully wrote the generated folderstructure to '${outputPath}' `,
-	);
 });
