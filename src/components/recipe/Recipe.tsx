@@ -5,6 +5,8 @@ import { useParams } from 'react-router';
 import { searchFolderNode } from './models';
 import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import NotFound from 'components/notFound/NotFound';
+
 import './github-markdown.style.css';
 
 const Recipe: React.FC = () => {
@@ -25,7 +27,12 @@ const Recipe: React.FC = () => {
 			.then((text) => setRecipeText(text));
 	}, [node?.path]);
 
-	if (node === null) return <div>404: NOT FOUND</div>; // TODO: 404 page
+	if (node === null)
+		return (
+			<Box sx={{ paddingTop: 4 }}>
+				<NotFound />
+			</Box>
+		);
 
 	return (
 		<Box
