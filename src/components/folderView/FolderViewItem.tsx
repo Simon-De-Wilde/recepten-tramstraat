@@ -22,17 +22,10 @@ const FolderViewItem: React.FC<FolderViewItemProps> = ({ node }) => {
 
 	const nodeIsFolder = isFolder(node);
 
-	return (
+	const ItemComponent = () => (
 		<TreeItem
-			key={node.path}
 			nodeId={node.path}
-			label={
-				nodeIsFolder ? (
-					node.name
-				) : (
-					<StyledNavLink to={node.name}>{node.name}</StyledNavLink>
-				)
-			}
+			label={node.name}
 			expandIcon={<Folder />}
 			collapseIcon={<FolderOpen />}
 			icon={!nodeIsFolder && <InsertDriveFileOutlined />}
@@ -41,6 +34,14 @@ const FolderViewItem: React.FC<FolderViewItemProps> = ({ node }) => {
 				<FolderViewItem key={child.path} node={child} />
 			))}
 		</TreeItem>
+	);
+
+	return nodeIsFolder ? (
+		<ItemComponent />
+	) : (
+		<StyledNavLink to={node.name}>
+			<ItemComponent />
+		</StyledNavLink>
 	);
 };
 

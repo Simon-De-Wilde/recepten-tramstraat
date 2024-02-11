@@ -9,7 +9,7 @@ export const StyledNavLink = styled(NavLink)`
 		color: #000;
 	}
 
-	&.active {
+	&.active .MuiTreeItem-label {
 		font-weight: bold;
 	}
 `;
