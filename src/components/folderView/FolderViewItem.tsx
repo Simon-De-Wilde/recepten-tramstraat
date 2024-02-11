@@ -35,7 +35,7 @@ const FolderViewItem: React.FC<FolderViewItemProps> = ({ node }) => {
 			))}
 		</TreeItem>
 	);
-	
+
 	return nodeIsFolder ? (
 		<ItemComponent />
 	) : (
