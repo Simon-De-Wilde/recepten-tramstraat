@@ -1,7 +1,7 @@
 import { Box } from '@mui/joy';
 import { TreeView } from '@mui/x-tree-view';
 import React from 'react';
-import FolderViewItem from './FolderViewItem';
+import FolderViewItem from './folderViewItem/FolderViewItem';
 import { useFolderStructure } from 'hooks/useFolderStructure';
 
 const FolderView: React.FC = () => {
