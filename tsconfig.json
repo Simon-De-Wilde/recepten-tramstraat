@@ -27,6 +27,7 @@
 			"components/*": ["components/*"],
 			"hooks/*": ["hooks/*"],
 			"generated/*": ["generated/*"],
+			"shared/*": ["shared/*"],
 		},
 	},
 	"include": ["src"],

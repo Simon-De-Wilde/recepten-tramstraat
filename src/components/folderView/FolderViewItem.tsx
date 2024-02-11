@@ -1,5 +1,5 @@
 import { TreeItem } from '@mui/x-tree-view';
-import { FolderNode, isFolder } from './models';
+import { FolderNode, isFolder } from 'shared/FolderNode.models';
 import {
 	FolderOpen,
 	Folder,

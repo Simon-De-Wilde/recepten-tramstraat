@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { Box } from '@mui/joy';
 import { useFolderStructure } from 'hooks/useFolderStructure';
 import { useParams } from 'react-router';
-import { searchFolderNode } from './models';
+import { searchFolderNode } from 'shared/FolderNode.models';
 import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import NotFound from 'components/notFound/NotFound';

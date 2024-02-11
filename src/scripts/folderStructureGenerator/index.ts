@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 import * as p from 'path';
-import { FolderNode } from 'components/folderView/models';
+import { FolderNode } from 'shared/FolderNode.models';
 
 const traverseNode = (node: FolderNode) => {
 	const nodeLocation = p.join(import.meta.env.PWD, 'public', node.path);
