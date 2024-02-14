@@ -14,8 +14,6 @@ const TreeTextSearch: React.FC<TextSearchProps> = ({ setFilteredroot }) => {
 
 	useEffect(() => {
 		const debounceFn = setTimeout(() => {
-			console.log('ai');
-
 			const newFilteredRoot = filterFolderNode(root, value);
 			setFilteredroot({ ...newFilteredRoot });
 		}, 250);
