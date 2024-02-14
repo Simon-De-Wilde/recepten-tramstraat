@@ -22,7 +22,6 @@ const FolderView: React.FC = () => {
 		>
 			<Stack direction={'column'} gap={2}>
 				<TreeTextSearch setFilteredroot={setFilteredFolderStructure} />
-				{/* TODO: when searching, expand all */}
 				<TreeView
 					sx={{ p: 1 }}
 					defaultExpanded={[filteredFolderStructure.path]}

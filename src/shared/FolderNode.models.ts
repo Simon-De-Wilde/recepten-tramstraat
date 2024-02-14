@@ -31,7 +31,7 @@ const normalizeString = (str: string) =>
 	str
 		.toLocaleLowerCase()
 		.normalize('NFD')
-		.replace(/\p{Diacritic}/gu, "");
+		.replace(/\p{Diacritic}/gu, '');
 
 /**
  * Filters a node by a value

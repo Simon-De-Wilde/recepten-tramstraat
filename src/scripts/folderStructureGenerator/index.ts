@@ -8,7 +8,7 @@ const traverseNode = (node: FolderNode) => {
 	const nodeInfo = fs.statSync(nodeLocation);
 
 	if (!nodeInfo.isDirectory()) return node;
-	
+
 	node.isFolder = true;
 
 	fs.readdirSync(nodeLocation).forEach((child) => {
