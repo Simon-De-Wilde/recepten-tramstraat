@@ -24,7 +24,7 @@ const TreeTextSearch: React.FC<TextSearchProps> = ({ setFilteredroot }) => {
 	}, [root, setFilteredroot, value]);
 
 	const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-		// This will trigger the useEffect constantly while typing which will clear the timeout prematurly
+		// This will trigger the useEffect constantly while typing which will clear the timeout prematurely
 		// So the filtering wil only happen when the typing stops long enough.
 		setValue(event.target.value);
 	};
