@@ -1,6 +1,6 @@
 import * as fs from 'fs';
 import * as p from 'path';
-import { FolderNode } from 'components/folderView/models';
+import { FolderNode } from 'shared/FolderNode.models';
 
 const traverseNode = (node: FolderNode) => {
 	const nodeLocation = p.join(import.meta.env.PWD, 'public', node.path);
@@ -8,6 +8,8 @@ const traverseNode = (node: FolderNode) => {
 	const nodeInfo = fs.statSync(nodeLocation);
 
 	if (!nodeInfo.isDirectory()) return node;
+
+	node.isFolder = true;
 
 	fs.readdirSync(nodeLocation).forEach((child) => {
 		const childPath = p.join(node.path, child);

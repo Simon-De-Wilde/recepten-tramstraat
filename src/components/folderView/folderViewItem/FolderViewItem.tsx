@@ -1,5 +1,5 @@
 import { TreeItem } from '@mui/x-tree-view';
-import { FolderNode, isFolder } from './models';
+import { FolderNode } from 'shared/FolderNode.models';
 import {
 	FolderOpen,
 	Folder,
@@ -13,14 +13,12 @@ type FolderViewItemProps = {
 
 const FolderViewItem: React.FC<FolderViewItemProps> = ({ node }) => {
 	const sortedChildren = node.children?.sort((a, b) => {
-		return isFolder(a) && !isFolder(b)
+		return a.isFolder && !b.isFolder
 			? -1
-			: !isFolder(a) && isFolder(b)
+			: !a.isFolder && b.isFolder
 				? 1
 				: a.name.localeCompare(b.name);
 	});
-
-	const nodeIsFolder = isFolder(node);
 
 	const ItemComponent = () => (
 		<TreeItem
@@ -28,7 +26,7 @@ const FolderViewItem: React.FC<FolderViewItemProps> = ({ node }) => {
 			label={node.name}
 			expandIcon={<Folder />}
 			collapseIcon={<FolderOpen />}
-			icon={!nodeIsFolder && <InsertDriveFileOutlined />}
+			icon={!node.isFolder && <InsertDriveFileOutlined />}
 		>
 			{sortedChildren?.map((child) => (
 				<FolderViewItem key={child.path} node={child} />
@@ -36,8 +34,10 @@ const FolderViewItem: React.FC<FolderViewItemProps> = ({ node }) => {
 		</TreeItem>
 	);
 
-	return nodeIsFolder ? (
-		<ItemComponent />
+	return node.isFolder ? (
+		node.children.length ? (
+			<ItemComponent />
+		) : null
 	) : (
 		<StyledNavLink to={node.name}>
 			<ItemComponent />
