@@ -27,6 +27,12 @@ export const searchFolderNode = (
 	return result;
 };
 
+const normalizeString = (str: string) =>
+	str
+		.toLocaleLowerCase()
+		.normalize('NFD')
+		.replace(/\p{Diacritic}/gu, "");
+
 /**
  * Filters a node by a value
  * @param node node to be filtered
@@ -39,7 +45,7 @@ export const filterFolderNode = (
 	node = { ...node }; // Clone to avoid issues with overriding base values
 
 	const isHit = (n: FolderNode) =>
-		n.name.toLocaleLowerCase().includes(filterValue.toLocaleLowerCase());
+		normalizeString(n.name).includes(normalizeString(filterValue));
 
 	if (node.isFolder) {
 		const folderIsHit = isHit(node);
