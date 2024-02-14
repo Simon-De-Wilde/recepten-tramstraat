@@ -2,7 +2,7 @@ export class FolderNode {
 	name: string;
 	path: string;
 	children: FolderNode[];
-	// TODO: store if the node is a folder so the folderview can hide a folder without children
+	isFolder: boolean = false;
 
 	constructor(name: string, path: string) {
 		this.name = name;
@@ -10,8 +10,6 @@ export class FolderNode {
 		this.children = [];
 	}
 }
-
-export const isFolder = (node: FolderNode) => !!node.children.length;
 
 export const searchFolderNode = (
 	node: FolderNode,
@@ -43,16 +41,14 @@ export const filterFolderNode = (
 	const isHit = (n: FolderNode) =>
 		n.name.toLocaleLowerCase().includes(filterValue.toLocaleLowerCase());
 
-	const nodeIsFolder = isFolder(node);
-
-	if (nodeIsFolder) {
+	if (node.isFolder) {
 		const folderIsHit = isHit(node);
 
 		if (!folderIsHit) {
 			// Folder should be kept, but children should be filtered
 			const filteredChildren = node.children
 				.filter((child) =>
-					isFolder(child)
+					child.isFolder
 						? true // Keep folder for further filtering
 						: isHit(child),
 				)
