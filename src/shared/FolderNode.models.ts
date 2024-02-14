@@ -58,9 +58,7 @@ export const filterFolderNode = (
 						? true // Keep folder for further filtering
 						: isHit(child),
 				)
-				.map((child) =>
-					folderIsHit ? child : filterFolderNode(child, filterValue),
-				);
+				.map((child) => filterFolderNode(child, filterValue));
 
 			node.children = filteredChildren;
 		}
