@@ -39,7 +39,6 @@ const Recipe: React.FC = () => {
 			className={'markdown-body'}
 			sx={{
 				bgcolor: (theme) => theme.palette.background.level1,
-				flexGrow: 1,
 				borderRadius: 4,
 				paddingX: 2,
 				paddingTop: 2,
