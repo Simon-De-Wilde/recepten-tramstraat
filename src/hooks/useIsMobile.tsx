@@ -1,4 +1,4 @@
-import { useTheme } from "@mui/joy";
+import { useTheme } from '@mui/joy';
 import { useMediaQuery } from '@mui/material';
 
 const useIsMobile = () => {
