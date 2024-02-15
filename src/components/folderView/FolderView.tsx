@@ -17,7 +17,6 @@ const FolderView: React.FC = () => {
 				p: 1,
 				bgcolor: (theme) => theme.palette.background.level2,
 				borderRadius: 4,
-				minWidth: '22rem',
 			}}
 		>
 			<Stack direction={'column'} gap={2}>

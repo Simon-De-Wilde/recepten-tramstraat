@@ -1,15 +1,17 @@
-import { Box, Stack } from '@mui/joy';
+import { Grid } from '@mui/joy';
 import FolderView from 'components/folderView/FolderView';
 import { Outlet } from 'react-router-dom';
 
 const MainContent: React.FC = () => {
 	return (
-		<Stack direction={'row'} spacing={2}>
-			<FolderView />
-			<Box flexGrow={1}>
+		<Grid container spacing={2}>
+			<Grid xs={12} sm={5} md={4} lg={3}>
+				<FolderView />
+			</Grid>
+			<Grid xs={12} sm={7} md={8} lg={9}>
 				<Outlet />
-			</Box>
-		</Stack>
+			</Grid>
+		</Grid>
 	);
 };
 
