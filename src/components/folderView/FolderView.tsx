@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { TreeView } from '@mui/x-tree-view';
-import { Box, Stack, useTheme } from '@mui/joy';
+import { Box, Stack } from '@mui/joy';
 import FolderViewItem from './folderViewItem/FolderViewItem';
 import { useFolderStructure } from 'hooks/useFolderStructure';
 import TreeTextSearch from 'components/folderView/textSearch/TextSearch';
-import { useMediaQuery } from '@mui/material';
+import useIsMobile from 'hooks/useIsMobile';
 
 const FolderView: React.FC = () => {
 	const folderStructure = useFolderStructure();
@@ -12,8 +12,7 @@ const FolderView: React.FC = () => {
 	const [filteredFolderStructure, setFilteredFolderStructure] =
 		useState(folderStructure);
 
-	const theme = useTheme();
-	const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
+	const isMobile = useIsMobile();
 
 	return (
 		<Box
