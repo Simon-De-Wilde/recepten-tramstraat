@@ -1,5 +1,5 @@
 /* ####  CUSTOM SCROLLBAR  #### */
-* {
+html {
 	scrollbar-gutter: stable; /* Reserve space for gutter to prevent layout shift */
 }
 
