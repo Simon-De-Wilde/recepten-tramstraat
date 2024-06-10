@@ -2,16 +2,23 @@
 
 Hoeveelheid vulling was maar goed voor 32 loempia's, dus best \*1.25 doen om aan 40 te geraken.
 
+Opmerkingen na 1ste keer:
+
+- Vulling mag iets zouter
+- Loempia's mogen iets kleiner als hapje
+- Vlees niet té fijn. Mogen zeker nog wat stukjes inzitten
+- Groenten hoeven niet té fijn. Mag nog wat bijt aanzitten
+
 Om in te vriezen.
 
 #### Ingrediënten
 
 | Ingrediënt                                               | Hoeveelheid (32 Loempias) |
 | -------------------------------------------------------- | ------------------------- |
-| Kipfilet (mixen tot gehakt)                              | 600 gr                    |
-| Ajuin (zeer fijn)                                        | 1                         |
-| Prei (zeer fijn)                                         | 1                         |
-| Wortel (zeer fijn)                                       | 1                         |
+| Kipfilet (mixen tot ~~gehakt~~ fijne stukjes)            | 600 gr                    |
+| Ajuin (~~zeer~~ fijn)                                    | 1                         |
+| Prei (~~zeer~~ fijn)                                     | 1                         |
+| Wortel (~~zeer~~ fijn)                                   | 1                         |
 | Sojascheuten                                             | 200 - 250 gr              |
 | RijstNoedels (na koken, knippen)                         | ± 175 gr                  |
 | Ei                                                       | 1                         |
